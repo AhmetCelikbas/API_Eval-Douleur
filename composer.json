@@ -1,0 +1,13 @@
+{
+    "name": "keylan/api",
+    "authors": [
+        {
+            "name": "Ahmet Celikbas",
+            "email": "celikbas.ahmet@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.6",
+        "firebase/php-jwt": "^4.0"
+    }
+}
